@@ -4,7 +4,7 @@ Unity marble surface shader.
 
 ### Display
 
-![marble](http://www.tonymonckton.co.uk/github/marble.jpg)
+![](withbumpmap.png)
 
 ### Usage
 
