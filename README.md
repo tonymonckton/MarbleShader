@@ -1,4 +1,4 @@
-# Marble Shader v1.0
+# Marble Shader v1.1
 
 Unity marble surface shader.
 
@@ -12,4 +12,5 @@ Unity marble surface shader.
 * attach MarbleSurfaceShaser.shader to a material
 
 ### Change Log
+* v1.1 now has bumpmap and constast.
 * v1.0 first commit
